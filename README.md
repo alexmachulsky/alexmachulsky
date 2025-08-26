@@ -18,36 +18,7 @@
 
 <div align="center">
 
-```yaml
-👨‍💻 Profile:
-  name: "Alex Machulsky"
-  role: "Senior DevOps Engineer"
-  location: "�🇱 Israel"
-  
-🎯 Focus Areas:
-  - "☁️ Cloud Infrastructure & Architecture"
-  - "🐳 Container Orchestration (Kubernetes)"
-  - "🔄 CI/CD Pipeline Automation"
-  - "🏗️ Infrastructure as Code (Terraform)"
-  - "📊 Monitoring & Observability"
-
-🌱 Currently Learning:
-  - "Advanced Kubernetes Patterns"
-  - "GitOps with ArgoCD"
-  - "Service Mesh Technologies"
-  - "Cloud Security Best Practices"
-
-💬 Ask Me About:
-  - "AWS Cloud Architecture"
-  - "Docker & Kubernetes"
-  - "Terraform & Ansible"
-  - "Jenkins & GitHub Actions"
-  - "ELK Stack & Prometheus"
-
-🎨 Fun Fact:
-  "If you do it twice, automate it! 🤖✨"
-  "Infrastructure is poetry in motion! 🎭"
-```
+**A passionate DevOps engineer from Israel, loves automation, infrastructure, and cloud technologies**
 
 </div>
 
