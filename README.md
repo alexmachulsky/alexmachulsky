@@ -22,7 +22,7 @@
 👨‍💻 Profile:
   name: "Alex Machulsky"
   role: "Senior DevOps Engineer"
-  location: "🌍 Ukraine"
+  location: "�🇱 Israel"
   
 🎯 Focus Areas:
   - "☁️ Cloud Infrastructure & Architecture"
