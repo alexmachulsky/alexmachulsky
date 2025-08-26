@@ -6,7 +6,6 @@ I'm a passionate DevOps Engineer focused on building scalable infrastructure and
 - 🔭 Currently working on cloud infrastructure automation
 - 🌱 Learning advanced Kubernetes patterns and GitOps
 - 💬 Ask me about AWS, Docker, Terraform, CI/CD pipelines
-- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
 - ⚡ Fun fact: I believe if you do something twice, it should be automated!
 
 ## 🛠️ Tech Stack
@@ -62,9 +61,8 @@ I'm a passionate DevOps Engineer focused on building scalable infrastructure and
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-machulsky-/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexmachulsky)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
