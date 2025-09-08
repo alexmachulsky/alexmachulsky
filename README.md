@@ -32,11 +32,13 @@
 
 ### ☁️ **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
 
 ### 📦 **Containers & Orchestration**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
 ### 🏗️ **Infrastructure as Code**
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
@@ -57,6 +59,8 @@
 
 ### 💻 **Programming & Tools**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -66,6 +70,40 @@
 </table>
 
 </div>
+
+## <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="35"> Featured Projects
+
+<div align="center">
+
+### 🎯 **BlackJack DevOps Project**
+
+<a href="https://github.com/alexmachulsky/blackjack-devops-project">
+  <img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+</a>
+
+</div>
+
+**A complete end-to-end DevOps project showcasing modern cloud-native practices**
+
+🏗️ **Architecture:** Full-stack Python Flask blackjack game deployed on AWS EKS  
+🚀 **Technologies:** Terraform, Kubernetes, ArgoCD, AWS EKS, MongoDB  
+📊 **Monitoring:** Prometheus + Grafana + ELK Stack  
+🔐 **Security:** AWS Secrets Manager + External Secrets Operator  
+⚡ **DevOps:** GitOps workflows, Infrastructure as Code, CI/CD pipelines
+
+<div align="center">
+
+**Key Highlights:**
+- 🎮 Interactive web-based blackjack game
+- ☁️ Production-ready AWS EKS deployment  
+- 🔄 GitOps with ArgoCD for continuous deployment
+- 📈 Comprehensive monitoring and observability
+- 🛡️ Enterprise-grade security and secret management
+- 🔧 Infrastructure as Code with Terraform modules
+
+</div>
+
+---
 
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g03giz0pwtzzsd3xgg2w9nr94t4tfllbbgo3008&rid=giphy.gif" width="35"> GitHub Analytics
 
